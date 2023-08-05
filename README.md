@@ -4,10 +4,6 @@
 
 > **Sorting Visualizer** Visualizes the runtime behaviour of standard Sorting Algorithms by means of 2D-Animations on a Webpage .
 
-## Check out Here [Live URL](https://dasri7842.github.io/Sort-Visualizer/).
-
-Or Clone this repo in your local machine and Click on `Index.html.`
-
 Implemented using :
 
 - HTML
